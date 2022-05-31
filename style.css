@@ -1,0 +1,58 @@
+/*Imports*/
+
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+
+html {
+    background-color: #bbe8f2;
+    user-select: none;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+#mainname {
+    color: black;
+    text-align: center;
+    font-family: Heebo;
+    margin-top: -90px;
+    font-size: 50px;
+    color: black;}
+
+#mainnameeng {
+    color: white;
+    text-align: center;
+    font-family: Oswald;
+    font-size: 120px;
+    color: black;}
+
+#button1 {
+    width: 200px;
+    height: 50px;
+    border-radius: 12px;
+    background-color: #5c837c;
+    border: 1px solid #0c0c0c;
+    transition: 0.5s;
+    cursor: pointer;
+    outline: none;
+    font-weight: bold;
+    font-family: "Aldrich";
+}
+
+#button1:hover {
+    background-color: #bbe8f2;
+}
+
+
+#maininfo {
+    color: black;
+    text-align: center;
+    font-family: Heebo;
+    font-size: 30px;
+    color: black;}
+
+footer {
+    height: 2px;
+    width: 75%;
+    background-color: black;
+    margin:auto;
+}
