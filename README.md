@@ -11,7 +11,7 @@ the project is in _development_ by me and a few more cool developers 😃
 
 ## Thanks
 I would like to thank these people:
-> Ofeki - The readme file is a template yoinked from him.
+> Ofeki - The readme file is a template that we yoinked from him.
 
 > A random website - We yoinked the Navbar their tutorial showed, too :)
 ## Contact
